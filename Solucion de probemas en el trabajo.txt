@@ -1,0 +1,16 @@
+
+BUENAS TARDES
+
+El dìa de ayer 25/01/2024
+teniamos que cargar sistema a un pc
+pero tuvimos que degradarlo de 10 a 7 
+puesto que no soportaba la carga del sitema operativo
+pero resulta que para hacerlo no nos cargaba el sistema
+porque teneniamos que configuar el tipo de disco duro
+en achi/sata y se encontraba en achi
+
+-solucion porm edio de algoritmo:
+-se encendio el equipo
+-encontramos el la opciòn
+-procedimos a activarla
+-y listo pudimos cargar el sistema operativo 7

@@ -1,0 +1,31 @@
+const dolar_a_quetzal=7.79
+var cantidad=prompt ("ingrese cantidad en dolar")
+console.log(cantidad*dolar_a_quetzal)
+
+const precio_dolar=7.79
+var cantidad =prompt ("Ingrese cantiad de billetes verdes de dolares")
+console.log(cantidad*precio_dolar)
+
+var dia=prompt ("ingrese dia")
+var mes=prompt ("ingrese mes en numeros")
+=
+if dia >0 and >32 
+else{}
+
+
+
+
+var cantidad=prompt ("ingrese cantidad en dolar")
+const dolar_a_quetzal=7.79
+const dolar_bajo=7.59
+
+if (cantidad <100)
+
+{
+  console.log(cantidad*dolar_bajo)
+}
+
+else {
+  console.log(cantidad*dolar_a_quetzal)
+}
+

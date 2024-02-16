@@ -1,0 +1,97 @@
+var dia
+var mes
+
+var dia=prompt ("INGRESE DIA DE NACIMIENTO")
+var mes=prompt ("INGRESE MES DE NACIMIENTO")
+
+//MES 1
+
+if ((dia >20&&mes==3)||(dia <21&&mes==4)){
+  
+console.log ("ARIES")
+alert('ARIES')
+       }
+
+// MES 2
+if ((dia >20&&mes==4)||(dia <21&&mes==5)){
+  
+console.log ("TAURO")
+alert('TAURO')
+}
+// MES 3       }
+if ((dia >20&&mes==5)||(dia <21&&mes==6))
+{
+  
+console.log ("GEMINIS")
+alert('GEMINIS')
+       }
+  
+  // MES 4
+if ((dia >20&&mes==6)||(dia <23&&mes==7))
+{
+  
+console.log ("CANCER")
+alert('CANCER')
+       }
+
+  //MES 5
+if ((dia >22&&mes==7)||(dia <24&&mes==8))
+{
+  
+console.log ("LEO")
+alert('LEO')
+
+       }
+  
+ // MES 6
+if ((dia >23&&mes==8)||(dia <23&&mes==9))
+{
+  
+console.log ("VIRGO")
+alert('VIRGO')
+       }
+
+// MES 7
+
+if ((dia >22&&mes==9)||(dia <24&&mes==10))
+{
+  
+alert('LIBRA')
+       }
+
+//MES 8
+if ((dia >23&&mes==10)||(dia <23&&mes==11))
+{
+  
+alert('ESCORPION DORADO')
+       }
+
+// MES 9
+if ((dia >22&&mes==11)||(dia <22&&mes==12))
+{
+  
+alert('SAGITARIO')
+       }
+
+//MES 10
+
+if ((dia >21&&mes==12)||(dia <21&&mes==1))
+{
+  
+alert('CAPRICORNIO')
+       }
+
+// MES 11
+if ((dia >20&&mes==1)||(dia <20&&mes==02))
+{
+  
+alert('ACUARIO')
+       }
+
+//MES 12
+
+if ((dia >19&&mes==2)||(dia <21&&mes==3))
+{
+  
+alert('PICIS')
+       }

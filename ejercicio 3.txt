@@ -1,0 +1,46 @@
+
+EJERCICIO 3 SUJETEO ESCOGIDO MASCOSA
+
+tiene experiencia manejando F
+tiene una licenia espeical F
+conoce muy bien las rutas F
+mantiene en buen estado su carro F
+su celular es una herramienta muy importante F
+
+
+INDISO B
+trabaja en una oficna F
+No conoce las reglas de transito V
+No interactua con los clientes 	V
+No conoce de carros 	V
+Siempre llega tarde F
+etc
+
+PROPOCIONES CREADAS 10
+ 
+
+1.no sabe las reglas de transito negaciòn
+valor resultante VERDADERO
+
+2.Su vehiculo vuela y navega conjucion
+FALSO
+3. Come en el vehiculo y habla por telefono   NEGACION
+FALSO
+
+4. Respet el paso de cebra Y cede el paso  DISYUNCIÒN
+FALSO
+5. lee el periodico mientras baja del vehiuclo NEGACIÒN
+FALSO
+6. Lleva almuerzo y come mucho DISYUNCION
+VERDADERO 
+7. Usa abrigo para el frio Negacion
+FALSO
+8. Usa zapatos comodos y sube las gragdas conjunciòn
+FALSO 
+9.corre para llegar a buena hora NEGACIÒN
+FALSO
+10. Acostumbra madrugar y estar atento. DISYUCION
+VERDADERO  
+
+
+
